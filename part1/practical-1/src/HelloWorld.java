@@ -27,7 +27,7 @@ public class HelloWorld {
     public static void addition() {
         int x = 100;
         int y = 50;
-        int z =  x + y;
+        int z = x+y;
         System.out.println(z);
     }//end addition
     
